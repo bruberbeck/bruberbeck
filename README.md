@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bruberbeck. A softwware engineer from Turkey. I have a Ph.D on Geographic Information Technologies and I love writing.
+- 👋 Hi, I’m @bruberbeck (Çelik). A software engineer from Turkey. I have a Ph.D on Geographic Information Technologies and I love writing.
 - 👀 Developing in lightweight frameworks such Node.js and React.
 - 🌱 Full stack web development using Node.js and React.
 - 💞️ I’m looking to collaborate on system programming tasks.
